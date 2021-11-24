@@ -1,0 +1,6 @@
+model\Doge.class
+model\Dog.class
+model\Doggo.class
+model\Pupper.class
+servlet\JSONDogServlet.class
+servlet\LandingServlet.class
